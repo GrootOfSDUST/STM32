@@ -122,14 +122,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWMYCMUS
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for STM32F103C8\Design Rule Check - Demo2.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for STM32F103C8\Design Rule Check - DEMO.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -249,7 +241,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
