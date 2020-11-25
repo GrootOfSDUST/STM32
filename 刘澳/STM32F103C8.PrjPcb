@@ -72,25 +72,42 @@ GenerateClassCluster=0
 DocumentUniqueId=LIVWUNUX
 
 [Document3]
+DocumentPath=LED7.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LIVWUNUX
+
+[Document4]
 DocumentPath=LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRXGINPC
 
-[Document4]
+[Document5]
 DocumentPath=MAIN.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZNVNMQX
 
-[Document5]
+[Document6]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,8 +139,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMOURRNU
 
-[Document6]
-DocumentPath=Time.PcbDoc
+[Document7]
+DocumentPath=TimeDemo.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,10 +154,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IIPGUOAS
+DocumentUniqueId=BTWPWPMV
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for STM32F103C8\Design Rule Check - Time.html
+DocumentPath=Project Outputs for STM32F103C8\Design Rule Check - TimeDemo.html
 DItemRevisionGUID=
 
 [Configuration1]
